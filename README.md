@@ -1,4 +1,4 @@
 # OWE5
-hallo allemaal
-dit is mijn afvinkmap
+hallo allemaal\n
+dit is mijn afvinkmap\n
 super gezellig dat je er bent
